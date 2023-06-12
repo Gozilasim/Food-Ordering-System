@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="Pic">
+    <file>Menu pic/3 layer tea.jpg</file>
+    <file>Menu pic/black pepper chicken chop.jpg</file>
+    <file>Menu pic/butter chicken rice.jpg</file>
+    <file>Menu pic/Cappuccino.jpg</file>
+    <file>Menu pic/chicken chop.jpg</file>
+    <file>Menu pic/curry chicken rice.jpg</file>
+    <file>Menu pic/curry mee.jpg</file>
+    <file>Menu pic/egg.jpg</file>
+    <file>Menu pic/garlic bread toast.jpg</file>
+    <file>Menu pic/garlic butter pasta.jpg</file>
+    <file>Menu pic/honey lemon teh.jpg</file>
+    <file>Menu pic/hot and spicy pasta.jpg</file>
+    <file>Menu pic/kopi c.jpg</file>
+    <file>Menu pic/kopi o.jpg</file>
+    <file>Menu pic/lemon chicken rice.jpg</file>
+    <file>Menu pic/lemon teh.jpg</file>
+    <file>Menu pic/matcha latte.jpg</file>
+    <file>Menu pic/mee goreng.jpg</file>
+    <file>Menu pic/mocha.jpg</file>
+    <file>Menu pic/mushroom soup.jpg</file>
+    <file>Menu pic/nasi chicken chop.jpg</file>
+    <file>Menu pic/nasi cina hainan.jpg</file>
+    <file>Menu pic/nasi goreng cina.jpg</file>
+    <file>Menu pic/nasi goreng kampung.jpg</file>
+    <file>Menu pic/nasi goreng USA.jpg</file>
+    <file>Menu pic/nasi lemak.jpg</file>
+    <file>Menu pic/nasi pattaya.jpg</file>
+    <file>Menu pic/nasi putih ayam merah.jpg</file>
+    <file>Menu pic/prawn mee.jpg</file>
+    <file>Menu pic/teh c.jpg</file>
+    <file>Menu pic/teh o.jpg</file>
+    <file>Menu pic/teh tarik.jpg</file>
+    <file>Menu pic/toast.jpg</file>
+    <file>Menu pic/tomato pasta.jpg</file>
+  </qresource>
+</RCC>
